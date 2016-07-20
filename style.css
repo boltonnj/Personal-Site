@@ -1,0 +1,51 @@
+body {
+  font-family: Georgia;
+  background-color: darkgray;
+  margin: 0% 3% 0% 3%;
+  color: black;
+  position: relative;
+}
+
+.profile-pic {
+  float: right;
+  margin: 0 0 10px 10px;
+  border-radius: 50%;
+  width: 80%;
+  height: 80%;
+}
+
+.bg-1 {
+  background-color: #F8F2D2;
+}
+
+.bg-2 {
+  background-color: #819975;
+}
+
+.bg-3 {
+  background-color: #DE6D43;
+}
+
+.bg-4 {
+  background-color: #424846;
+}
+
+img {
+  padding: 1%;
+}
+
+p {
+  font-size: 160%;
+}
+
+#section1 {
+  padding-top: 5%;
+}
+
+#section2 {
+  padding-top: 5%;
+}
+
+#section3 {
+  padding-top: 3%;
+}
